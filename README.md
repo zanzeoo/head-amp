@@ -11,6 +11,10 @@ Electret capsule : JLI-2555BXZ3-GP or JLI-3412
 
 For a Condenser Cardioïd/Figure 8, Mic you will need the voltage multiplier of the bottom PCB
 Condenser Capsules : TSC-1 or TSC-2
+BOM:
+
+Capsules are availaible on https://www.jlielectronics.com or https://micbooster.com/
+Some condenser capsules are available on EBAY too.
 
 In all cases you NEED a 48V phantom power supply to use this kind of mic.
 
