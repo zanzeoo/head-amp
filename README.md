@@ -3,7 +3,9 @@ Big buffalo Mic is an electronic board to amplify an electret or an condenser ca
 
 You will find in this repo all the documentation to build a very good quality Mic based on a BM-800 or 700 body.
 
-The amplifier part is on the TOP COPPER of the PCB and the mutiplier part is on the BOTTOM COPPER of the same PCB.
+This works is inspired by DJJULES https://www.instructables.com/True-Condenser-OPA-Mics/ . The main improvement is that all the components are in SMD , the board is double sided. 
+
+The amplifier part is on the TOP COPPER of the PCB and the voltage mutiplier part is on the BOTTOM COPPER of the same PCB.
 Mean than with the same PCB you can build a Cardioid or Figure 8 Mic.
 
 For an Electret Cardioïd MIC : BOM: https://octopart.com/bom-tool/cNtJgWeH
