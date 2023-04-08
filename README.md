@@ -10,13 +10,16 @@ Mean than with the same PCB you can build a Cardioid or Figure 8 Mic, All in one
 
 
 For a Cardioïd MIC, you just need one channel (channel 1 is populated but not channel 2 )
-Electret capsule : JLI-2555BXZ3-GP or JLI-3412. I found the 3412 too bassy and less sensitive than a condenser capsule
+and the voltage multiplier if a condenser capsule is used.
 
 For a Figure 8 stereo Mic you will need both channels and the voltage multiplier (bottom PCB)
 Then a 5 pins xlr male connector : https://www.ebay.fr/itm/192576751560?var=492699131094 
 and a special cable : https://www.thomann.de/fr/superlux_stereo_signal_cable.htm
-Condenser Capsules : TSC-1 or TSC-2 or the U87 CK12 expensive capsules
+This mic uses 2 input ports of your sound card but it gives you 2 independents tracks you can play with. (sums, Phase,soustration, delay...ect)
+
+Condenser Capsules : TSC-1,TSC-2 or the RK47,CK12 expensive capsules 
 https://microphone-parts.com/collections/capsules
+Electret capsule : JLI-2555BXZ3-GP or JLI-3412. I found the 3412 too bassy and less sensitive than a condenser capsule
 
 Capsule Sadle :https://www.thingiverse.com/thing:4753082
 Capsules are Glued on the sadle with epoxy resin
@@ -24,7 +27,7 @@ Capsules are Glued on the sadle with epoxy resin
 Grommets: KOP36851 https://www.ebay.fr/itm/202458640190
 
 Capsules are availaible on https://www.jlielectronics.com or https://micbooster.com/
-Some chinese condenser capsules are available on EBAY too and gives very good results.
+Some cheaper chinese condenser capsules are available on EBAY too and gives very good results.
 
 Some informations about capsules : https://microphone-parts.com/pages/installation
 
