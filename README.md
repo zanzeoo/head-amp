@@ -28,7 +28,7 @@ Some chinese condenser capsules are available on EBAY too and gives very good re
 
 In all cases you NEED a 48V phantom power supply to use this kind of mic.
 
-Here some tests: Liens
+Here some tests: Liens ver ta page...
 
 
 
