@@ -14,7 +14,7 @@ Electret capsule : JLI-2555BXZ3-GP or JLI-3412. I found the 3412 too bassy and l
 
 For a Figure 8 stereo Mic you will need both channels and the voltage multiplier (bottom PCB)
 Then a 5 pins xlr male connector : https://www.ebay.fr/itm/192576751560?var=492699131094 
-abd a special cable : https://www.thomann.de/fr/superlux_stereo_signal_cable.htm
+and a special cable : https://www.thomann.de/fr/superlux_stereo_signal_cable.htm
 Condenser Capsules : TSC-1 or TSC-2 or the U87 CK12 expensive capsules
 https://microphone-parts.com/collections/capsules
 
