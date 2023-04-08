@@ -26,6 +26,8 @@ Grommets: KOP36851 https://www.ebay.fr/itm/202458640190
 Capsules are availaible on https://www.jlielectronics.com or https://micbooster.com/
 Some chinese condenser capsules are available on EBAY too and gives very good results.
 
+Some informations about capsules : https://microphone-parts.com/pages/installation
+
 BOM: https://octopart.com/bom-tool/oiFaGxXk
 
 In all cases you NEED a 48V phantom power supply to use this kind of mic.
