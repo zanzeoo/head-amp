@@ -17,6 +17,7 @@ For a Figure 8 stereo Mic you will need both channels and the voltage multiplier
 Then a 5 pins xlr male connector : https://www.ebay.fr/itm/192576751560?var=492699131094 
 
 Condenser Capsules : TSC-1 or TSC-2 or the U87 CK12 expensive capsules
+https://microphone-parts.com/collections/capsules
 
 BOM: https://octopart.com/bom-tool/oiFaGxXk
 
