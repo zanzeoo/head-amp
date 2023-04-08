@@ -14,14 +14,16 @@ For a Cardioïd MIC, you just need one channel (channel 1 is populated but not c
 Electret capsule : JLI-2555BXZ3-GP or JLI-3412. I found the 3412 too bassy and less sensitive than a condenser capsule
 
 For a Figure 8 stereo Mic you will need both channels and the voltage multiplier (bottom PCB)
-Then a 5 pins xlr male connector :
+Then a 5 pins xlr male connector : https://www.ebay.fr/itm/192576751560?var=492699131094 
 
 Condenser Capsules : TSC-1 or TSC-2 or the U87 CK12 expensive capsules
 
 BOM: https://octopart.com/bom-tool/oiFaGxXk
 
 Capsule Sadle :https://www.thingiverse.com/thing:4753082
-Grommets: KOP36851
+Capsules are Glued on the sadle with epoxy resin
+
+Grommets: KOP36851 https://www.ebay.fr/itm/202458640190
 
 Capsules are availaible on https://www.jlielectronics.com or https://micbooster.com/
 Some chinese condenser capsules are available on EBAY too and gives very good results.
