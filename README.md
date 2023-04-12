@@ -1,5 +1,5 @@
 # CAPSULE AMPLIFIER
-Big buffalo Mic is an electronic board to amplify an electret or a condenser capsule Microphone. 
+This projets is an electronic board to amplify an electret or a true condenser capsule Microphone. 
 
 You will find here all the documentation to build a very good quality Mic based on a BM-800 or 700 body.
 
