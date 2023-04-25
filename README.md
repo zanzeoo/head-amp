@@ -35,7 +35,11 @@ BOM: https://octopart.com/bom-tool/oiFaGxXk
 
 In all cases you NEED a 48V phantom power supply to use this kind of mic.
 
-Here some tests: https://youtu.be/km4EISf3t-I?t=156 (It's not me in this video :-) )
+Here some tests (It's not me in this videos :-) ) 
+
+https://www.instagram.com/p/CraqyULK9Cj/
+
+https://youtu.be/km4EISf3t-I?t=156 
 
 
 
