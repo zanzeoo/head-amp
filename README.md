@@ -19,6 +19,9 @@ This mic uses 2 input ports of your sound card but it gives you 2 independents t
 
 Condenser Capsules : TSC-1,TSC-2 or the RK47,CK12 expensive capsules 
 https://microphone-parts.com/collections/capsules
+
+https://www.micandmod.com/microphone-parts/
+
 Electret capsule : JLI-2555BXZ3-GP or JLI-3412. I found the 3412 too bassy and less sensitive than a condenser capsule
 
 Capsule Sadle :https://www.thingiverse.com/thing:4753082
@@ -34,11 +37,25 @@ BOM: https://octopart.com/bom-tool/oiFaGxXk
 In all cases you NEED a 48V phantom power supply to use this kind of mic.
 
 Here some tests (It's not me in this videos :-) ) 
+
 https://www.instagram.com/p/CraqyULK9Cj/  
-https://www.instagram.com/p/CvIOY3YKEtU/
-https://www.youtube.com/watch?v=GOwiusfOndY
-https://lucmiteran.com/com.php
+
+https://www.instagram.com/p/CvIOY3YKEtU/ (FIGURE 8 MIC )
+
+https://www.instagram.com/p/CvNakGIKRaH/
+
+https://www.instagram.com/p/Crf-l-gqi0A/
+
+https://soundcloud.com/user-712432738/sets/tests-micros
+
 https://youtu.be/km4EISf3t-I?t=156 
+
+SUPPORTERS :
+
+https://www.youtube.com/watch?v=GOwiusfOndY
+
+https://lucmiteran.com/com.php (VOIX test)
+
 
 
 
