@@ -30,6 +30,11 @@ Capsules are Glued on the sadle with epoxy resin
 Grommets: KOP36851 https://www.ebay.fr/itm/202458640190
 
 Capsules are availaible on https://www.jlielectronics.com or https://micbooster.com/
+
+https://www.797microphone.com/
+
+https://www.aymaudio.com/
+
 Some cheaper chinese condenser capsules are available on EBAY too and gives very good results.
 
 Some informations about capsules : https://microphone-parts.com/pages/installation
