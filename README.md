@@ -49,7 +49,9 @@ In all cases you NEED a 48V phantom power supply to use this kind of mic.
 
 Here some tests (It's not me in this videos :-) ) 
 
-https://www.instagram.com/p/CraqyULK9Cj/  
+https://www.instagram.com/p/CraqyULK9Cj/
+
+https://www.facebook.com/watch/live/?ref=watch_permalink&v=923960335754670
 
 https://www.instagram.com/p/CvIOY3YKEtU/ (FIGURE 8 MIC )
 
