@@ -38,9 +38,12 @@ https://www.aymaudio.com/
 Some cheaper chinese condenser capsules are available on EBAY too and gives very good results.
 
 Informations about Capsules :
-https://www.youtube.com/watch?v=LYMKoaViDZE
 
-Some informations about capsules : https://microphone-parts.com/pages/installation
+https://www.youtube.com/watch?v=LYMKoaViDZE
+https://microphone-parts.com/pages/installation
+https://www.youtube.com/live/RnS4AIthm7s?si=l5fLr6Sq_mL3JTkP&t=341
+https://www.youtube.com/live/kp0x-wTdox8?si=Hwic8J_87-jWoQD_&t=672
+
 BOM: https://octopart.com/bom-tool/oiFaGxXk
 In all cases you NEED a 48V phantom power supply to use this kind of mic.
 
