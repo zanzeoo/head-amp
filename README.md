@@ -77,7 +77,8 @@ https://www.youtube.com/watch?v=GOwiusfOndY
 https://lucmiteran.com/com.php (VOIX test)
 
 
-You can contact me : zan0 @ protonmail .com
+You can contact me on telegram : https://t.me/+qpk8gMuaz1o2NjJk
+
 
 
 
