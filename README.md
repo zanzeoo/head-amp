@@ -60,13 +60,9 @@ https://www.facebook.com/watch/live/?ref=watch_permalink&v=923960335754670
 
 https://www.instagram.com/p/CvIOY3YKEtU/ (FIGURE 8 MIC )
 
-https://www.instagram.com/p/Cw1_2WxKZ5t/
+https://www.instagram.com/p/Cvw9NEeKinv/
 
 https://www.instagram.com/p/Crf-l-gqi0A/
-
-https://www.instagram.com/p/CuU0yiMraTw/
-
-https://www.instagram.com/p/CxItLxUqkx8/
 
 https://soundcloud.com/user-712432738
 
