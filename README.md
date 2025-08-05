@@ -29,6 +29,8 @@ Capsules are Glued on the sadle with epoxy resin
 
 Grommets: KOP36851 https://www.ebay.fr/itm/202458640190
 
+https://fr.rs-online.com/web/p/passe-fils/1366812
+
 Capsules are availaible on https://www.jlielectronics.com or https://micbooster.com/
 
 https://www.797microphone.com/
