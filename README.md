@@ -94,7 +94,6 @@ https://www.instagram.com/p/CvIOY3YKEtU/ (FIGURE 8 MIC )
 
 https://soundcloud.com/user-712432738
 
-https://youtu.be/km4EISf3t-I?t=156 
 
 SUPPORTERS :
 
