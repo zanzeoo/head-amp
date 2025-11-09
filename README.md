@@ -52,7 +52,7 @@ https://www.youtube.com/live/kp0x-wTdox8?si=Hwic8J_87-jWoQD_&t=672
 BOM: https://octopart.com/bom-tool/oiFaGxXk
 In all cases you NEED a 48V phantom power supply to use this kind of mic.
 
-Here some tests (It's not me in this videos :-) ) 
+Here some tests
 
 https://www.youtube.com/watch?v=_3s3olikx10
 
@@ -61,6 +61,8 @@ https://www.instagram.com/p/DK4wFtZMJl8/
 https://www.instagram.com/p/DPTDYgOiC0M/
 
 https://www.instagram.com/p/DMdMee_obhL/
+
+https://soundcloud.com/user-712432738
 
 https://www.youtube.com/watch?v=-vJLFU3j1lc
 
@@ -92,7 +94,7 @@ https://www.facebook.com/watch/live/?ref=watch_permalink&v=923960335754670
 https://www.instagram.com/p/CvIOY3YKEtU/ (FIGURE 8 MIC )
 
 
-https://soundcloud.com/user-712432738
+
 
 
 SUPPORTERS :
